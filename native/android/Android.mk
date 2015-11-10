@@ -9,6 +9,7 @@ LOCAL_SRC_FILES:= \
     asset_manager.cpp \
     configuration.cpp \
     looper.cpp \
+    native_window.cpp \
     obb.cpp \
     sensor.cpp \
     storage_manager.cpp
