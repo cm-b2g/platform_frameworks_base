@@ -10,6 +10,7 @@ LOCAL_SRC_FILES:= \
     configuration.cpp \
     looper.cpp \
     net.c \
+    native_window.cpp \
     obb.cpp \
     sensor.cpp \
     storage_manager.cpp \
